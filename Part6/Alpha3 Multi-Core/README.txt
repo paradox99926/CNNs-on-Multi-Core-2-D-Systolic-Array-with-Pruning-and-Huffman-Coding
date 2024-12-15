@@ -1,1 +1,0 @@
-Alpha3 achieve the Molti-Core structure.
